@@ -1,0 +1,18 @@
+Game Statistics
+---------------
+Winner: Игрок 2
+Player 1:
+  Total Shots: 21
+  Hits: 3
+  Misses: 18
+  Sunk Opponent Ships: 0
+  Remaining Ships: 0
+  Remaining Ship Cells: 0
+Player 2:
+  Total Shots: 21
+  Hits: 20
+  Misses: 1
+  Sunk Opponent Ships: 10
+  Remaining Ships: 10
+  Remaining Ship Cells: 20
+---------------
